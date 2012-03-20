@@ -1,0 +1,11 @@
+
+3rd-party files
+===============
+/appletobject/appletobject.js       0.0.1   Based on SWFObject v2.0: http://code.google.com/p/swfobject/
+/browser/freemindbrowser.jar        0.9.0   http://sourceforge.net/projects/freemind/files/freemind/0.9.0/
+                                            http://freemind.sourceforge.net/wiki/index.php/Asked_questions#Mind_maps_on_web_pages_with_FreeMind.27s_applet
+/browser/visorFreemind.swf          1.0b    http://freemind.sourceforge.net/wiki/index.php/Flash_browser
+/PluginDetect/PluginDetectJava.js   0.7.5   http://www.pinlady.net/PluginDetect
+/PluginDetect/getJavaInfo.jar       3       http://www.pinlady.net/PluginDetect
+/swfobject/expressInstall.swf       2.2     http://www.adobe.com/products/flashplayer/download/detection_kit/
+/swfobject/swfobject.js             2.2     http://code.google.com/p/swfobject/
